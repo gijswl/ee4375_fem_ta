@@ -8,4 +8,8 @@ As the development progresses, this readme and the notebooks in the repository w
 - general: Information about Julia in general, FEM in Julia, and gmsh
   - gmsh: Notebooks demonstrating how to define, generate, and visualize basic meshes with Julia and gmsh. Exercises on this subject will be added later.
   - julia:
-- 
+- assignment1_fem1d: Documentation for assignment 1 on 1-dimensional FEM with linear and quadratic elements.
+  - Geometry and physics definition based on realistic inductor design
+  - Derivation of stiffness & mass matrix for linear and quadratic elements
+  - Step 1: magnetostatics without eddy currents (derivation and implementation)
+  - Step 2: magnetostatics with eddy currents (derivation and implementation)
