@@ -35,4 +35,6 @@ As the development progresses, this readme and the notebooks in the repository w
     - Step 3: Non-linear magnetostatics with eddy currents
     - Step 4: Linear magnetostatics with voltage-driven coils (field-circuit coupling)
     - Step 5: Non-linear magnetostatics with voltage-driven coils (field-circuit coupling)
-    - Verification against COMSOL model from thesis
+	- Step 6: Core and winding loss model
+	- Step 7: Implementation in Gridap
+	- Verification against COMSOL model from thesis
